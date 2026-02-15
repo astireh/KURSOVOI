@@ -1,4 +1,4 @@
-# KURSOVOI Печерица
+# KURSOVOI Печерица бИЦ-251
 код Pecheritsa.c
 
 
